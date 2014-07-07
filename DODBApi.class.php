@@ -29,7 +29,8 @@ class DODBApi
    *
    * @param  string   $brand  brand name
    * @param  string   $model  model name
-   * @param  boolean  $exact_model_name Define if the model name has to be exactly like this or it only has to contain the requested model
+   * @param  boolean  $exact_model_name Define if the model name has to be exactly like this
+   * or it only has to contain the requested model
    *
    * @return stdClass Object 
    */
