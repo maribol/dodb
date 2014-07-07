@@ -1,7 +1,7 @@
 Device Open DataBase
 ===============
 
-Use the following example to get information about a divice.
+Use the following example to get information about a device.
 
 <pre>
   $dodb = new DODBApi();
